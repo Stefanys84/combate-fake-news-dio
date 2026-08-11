@@ -49,3 +49,9 @@ Para combater a desinformação:
 ### 4.3. Prompts Reutilizáveis
 1. *"Atue como um checador de fatos. Analise esta notícia e aponte inconsistências: [cole o texto]"*
 2. *"Quais são os principais motivos que fazem as pessoas compartilharem fake news?"*
+
+---
+## 🔗 Acesso ao NotebookLM
+Você pode acessar o caderno temático interativo criado no NotebookLM através do link abaixo:
+* [Acessar Caderno no NotebookLM](https://notebook.google.com/notebook/2cdd253c-d739-4c53-bf89-f6928a04a811)
+
